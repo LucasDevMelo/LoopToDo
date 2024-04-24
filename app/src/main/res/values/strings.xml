@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoopToDo</string>
+    <string name="email">E-mail:</string>
+    <string name="password">Senha:</string>
+    <string name="login">Entrar</string>
+    <string name="forgot_pass">Esqueci a senha</string>
+    <string name="create_new_account">Criar uma conta</string>
+</resources>
