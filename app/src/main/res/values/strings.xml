@@ -5,4 +5,7 @@
     <string name="login">Entrar</string>
     <string name="forgot_pass">Esqueci a senha</string>
     <string name="create_new_account">Criar uma conta</string>
+    <string name="name">Nome</string>
+    <string name="fullName">Nome completo</string>
+    <string name="signup">Cadastrar</string>
 </resources>
