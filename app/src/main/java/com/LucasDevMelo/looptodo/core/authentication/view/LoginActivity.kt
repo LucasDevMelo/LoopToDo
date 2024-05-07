@@ -21,6 +21,12 @@ class LoginActivity : AppCompatActivity(), LoginCallback {
         val fragment = SignUpFragment()
         supportFragmentManager.commit {
             //trocar fragmento atual
+            setCustomAnimations(
+                R.anim.slide_in,
+                R.anim.fade_out,
+                R.anim.fade_out,
+                R.anim.slide_out
+            )
             replace(R.id.fragment_container_view, fragment)
             addToBackStack(null)
         }
